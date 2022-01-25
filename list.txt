@@ -1,0 +1,12 @@
+*Data Structures:
+1.Array
+2.Stack
+3.Structures
+4.Queue
+5.Linked list
+
+*Algortihms:
+1.Searching
+2.Sorting
+3.Hashing
+4.Dijkstras
